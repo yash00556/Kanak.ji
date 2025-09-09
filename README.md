@@ -1,2 +1,2 @@
 # Kanak.ji
-Simple profile to express love
+Simple website to express love
